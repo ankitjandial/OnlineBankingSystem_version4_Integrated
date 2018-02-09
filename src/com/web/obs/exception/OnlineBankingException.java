@@ -2,9 +2,7 @@ package com.web.obs.exception;
 
 public class OnlineBankingException extends Exception {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 
 	public OnlineBankingException() {

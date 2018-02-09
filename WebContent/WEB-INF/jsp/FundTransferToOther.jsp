@@ -3,19 +3,6 @@
 <%@taglib uri="http://java.sun.com/jstl/core_rt" prefix="c" %>
 <%@taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
 
-<!-- 
-
-File					: FundTransferToOther.jsp
-Author Name				: Gaurav Sahu
-Description				: View for Login and signup to users
-Version					: 5
-Last Modified Date		: 01/01/2018
-Change Description		: Provided View Design to Functionalities (Look and Feel)
-
--->
-
-
-
 <!DOCTYPE>
 <html>
 <head>
@@ -163,7 +150,7 @@ Change Description		: Provided View Design to Functionalities (Look and Feel)
 
 	<!-- 	Footer -->
 	<div class="navbar navbar-default navbar-fixed-bottom footer">
-		<strong>Copyright &copy; OBS || @Capgemini, India</strong>
+		<strong>Copyright &copy; OBS </strong>
 	</div>
 </body>
 </html>
