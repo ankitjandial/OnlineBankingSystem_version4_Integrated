@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="OnlineBankingSystem_version4_Integrated">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources"/>
+        <property name="context-root" value="OnlineBankingSystem_version4_Integrated"/>
+        <property name="java-output-path" value="/OnlineBankingSystem_version4_Integrated/build/classes"/>
+    </wb-module>
+</project-modules>

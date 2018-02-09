@@ -1,0 +1,272 @@
+
+/* ::-moz-selection { */
+/*     background: #000; */
+/*     text-shadow: none; */
+/* 	color:#fff; */
+/* } */
+
+/* ::selection { */
+/*     background: #000; */
+/*     text-shadow: none; */
+/* 	color:#fff; */
+/* } */
+
+/* hr { */
+/*     display: block; */
+/*     height: 1px; */
+/*     border: 0; */
+/*     border-top: 1px solid #ccc; */
+/*     margin: 1em 0; */
+/*     padding: 0; */
+/* } */
+
+
+/* body{ */
+/* 	background-color: #f6f4f2; */
+/* } */
+/* .navbar-brand{ */
+/* 	cursor: pointer; */
+/* 	display: block; */
+/* 	font-size: 30px; */
+/* 	color:#fff; */
+/* } */
+/* #sitename.navbar-brand{ */
+/* 	font-size: 40px; */
+/* } */
+/* .navbar-default{ */
+/* 	background-color: #ff9933; */
+/* } */
+
+/* /* #navigation{ */ */
+/* /* 	height: 15%; */ */
+/* /* 	padding-top: 15px; */ */
+/* /* } */ */
+
+/* /* .login-button{ */ */
+/* /* 	background-color: #ff6f00; */ */
+/* /* 	color:#fff; */ */
+/* /* } */ */
+
+/* /* .login-button:hover{ */ */
+/* /* 	color:#000; */ */
+/* /* 	background-color: #ff6f00; */ */
+/* /* } */ */
+
+.register{
+	margin-top: 100px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+/* .line-height{ */
+/* 	margin-bottom: 10px; */
+/* } */
+/* .navbar-text{ */
+/* 	color:red; */
+/* } */
+
+/* .message{ */
+/* 	text-align: center; */
+/* 	color:red; */
+/* } */
+
+/* /*  Custom Table  */ */
+/* .table{ */
+/* 	text-align: center; */
+/* } */
+/* .table .panel, */
+/* .table .well{ */
+/* 	background-color: #f07a05; */
+/* 	color:#fff; */
+/* } */
+/* .column-head{ */
+/* 	font-weight: bold; */
+/* 	font-size: 16px; */
+/* 	padding: 10px; */
+/* } */
+/* .column-content{ */
+/* 	padding: 3px; */
+/* } */
+
+
+
+
+/* #content_body{ */
+/* 	margin-top: 100px; */
+/* 	padding-bottom: 40px; */
+/* } */
+/* #content_body.home{ */
+/* 	padding: 20px; */
+/* } */
+/* .option>a{ */
+/* 	text-decoration: none; */
+/* 	font-family: fantasy; */
+/* 	font-size: 16px; */
+/* 	font-weight: bold; */
+/* } */
+/* .navigation-back{ */
+/* 	margin-bottom: 10px; */
+/* } */
+/* .statement{ */
+/* 	text-align: center; */
+/* } */
+/* .statement:hover{ */
+/* 	background-color: #ff6f00; */
+/* 	color:#fff; */
+/* } */
+/* .form-block .panel{ */
+/* 	padding: 0; */
+/* } */
+/* .form-block .panel .panel-footer{ */
+/* 	padding-bottom: 30px; */
+/* } */
+
+
+
+
+
+
+
+
+
+
+::-moz-selection {
+    background: #000;
+    text-shadow: none;
+	color:#fff;
+}
+
+::selection {
+    background: #000;
+    text-shadow: none;
+	color:#fff;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+body{
+	background-color: #f6f4f2;
+}
+.navbar-brand{
+	cursor: pointer;
+	display: block;
+	font-size: 30px;
+	color:#fff;
+}
+
+
+
+
+.navbar{
+	background-color: #FC8551;
+}
+
+.login-button,
+.logout-button{
+	background-color: #FF5733;
+	color: #fff;
+}
+.login-button:hover,
+.logout-button:hover{
+	color:#000;
+	background-color: #FF5733;
+}
+.footer{
+	margin-bottom: 0;
+	text-align: center;
+}
+.footer>small{
+	margin-top: 10px;
+}
+.body-container{
+	margin-top: 130px;
+	margin-bottom: 60px;
+}
+.panel-heading{
+	text-align: center;
+}
+.panel-footer{
+	margin-bottom: 40px;
+}
+
+.increase-hieght{
+	height: 100px;
+}
+.link-button>a{
+	text-decoration: none;
+	color: #fff;
+}
+.link-button>a:hover{
+	color: #fff;
+	padding:10px;
+	background-color: #FF5733;
+}
+.link-button,
+.user-name{
+	margin-top: 35px;
+	margin-right: 120px;
+}
+.logout-button{
+	margin-top: 35px;
+	margin-right: 120px;
+}
+.option>a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+.navigation-back{
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+.statement{
+	text-align: center;
+}
+.statement:hover{
+	background-color: #ff6f00;
+	color:#fff;
+}
+
+.remove-padding{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+/*  Custom Table  */
+.table{
+	text-align: center;
+}
+.table .panel,
+.table .well{
+	background-color: #f07a05;
+	color:#fff;
+}
+.column-head{
+	font-weight: bold;
+	font-size: 16px;
+	padding: 10px;
+	text-align: center;
+}
+.column-content{
+	padding: 3px;
+	text-align: center;
+}
+.line-height{
+	margin-bottom: 10px;
+}
+.message{
+	text-align: center;
+}
+.control-textarea{
+	resize:vertical;
+}
